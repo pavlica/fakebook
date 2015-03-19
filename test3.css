@@ -1,0 +1,25 @@
+.glava {
+    style="font-style: verdana; 
+    background-color: grey;
+    float: right;
+    margin: 10px;
+}
+
+.sredina {
+    position top: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.noga {
+    display: inline-block;
+}
+
+.nogaL {
+    
+}
+
+.nogaD {
+    margin-right: 0;
+    width: 200px;
+}
